@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wowadminpage/static/css/main.4ad18184.css",
+    "main.js": "/wowadminpage/static/js/main.3413424d.js",
+    "static/js/787.c20097c7.chunk.js": "/wowadminpage/static/js/787.c20097c7.chunk.js",
+    "index.html": "/wowadminpage/index.html",
+    "main.4ad18184.css.map": "/wowadminpage/static/css/main.4ad18184.css.map",
+    "main.3413424d.js.map": "/wowadminpage/static/js/main.3413424d.js.map",
+    "787.c20097c7.chunk.js.map": "/wowadminpage/static/js/787.c20097c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ad18184.css",
+    "static/js/main.3413424d.js"
+  ]
+}
