@@ -35,7 +35,9 @@ export default function InfoView() {
     if (user) 
      return ( 
         <div>
-            <p>Info verdi akkurat nå: {status}</p>
+            <p className="updateRow" style={{ marginRight: '1rem' }}>Info verdi akkurat nå:</p>
+            <h3 className="updateRow">{status}</h3>
+            <br/>
             <span className="updateRow">
                 <p>Ny verdi:</p>
             </span>
